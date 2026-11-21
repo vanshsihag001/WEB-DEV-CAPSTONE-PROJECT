@@ -1,6 +1,6 @@
 # E-Commerce and Inventory Management System (Backend)
 
-Capstone Project 4 - Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, EventEmitter, Socket.IO.
+Capstone Project - Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, EventEmitter, Socket.IO.
 
 A REST API where **customers** browse products, keep a cart and place orders; **sellers** manage their own
 products, stock and orders; **admins** manage users, categories and see platform-wide orders and reports.
