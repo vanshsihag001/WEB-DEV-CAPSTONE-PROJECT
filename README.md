@@ -205,4 +205,8 @@ To watch real-time events, connect a Socket.IO client as `seller1@shop.com` and 
 bcrypt hashing; short-lived access tokens; refresh tokens stored only as SHA-256 hashes and rotated; generic login errors;
 role + ownership checks enforced in the backend; Joi `stripUnknown` blocks mass-assignment; helmet; rate-limited auth routes;
 secrets only in `.env`.
-Made By Vansh Sihag , Roll Number: 2501730387
+
+
+
+
+
